@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEPB+CDFbPDEfdtMZhxI9hWWZ5vCdZXH8WsUXqm8AOHBsP9CsY9avA0zWIBudAF2orIQg6KihlZvjR+wq77eEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarski\\source\\repos\\2RUSTY\\2RUSTY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarski\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jarski\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
